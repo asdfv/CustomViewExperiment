@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">CustomViewExperiment</string>
+    <string name="default_title">Default title</string>
+    <string name="title">Real title</string>
+</resources>
